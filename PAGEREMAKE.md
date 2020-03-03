@@ -42,3 +42,20 @@ Here are some of the websites to help you find some articles. In no paricular or
 
 # Coming Soon
 
+I will be adding prject for each prgramming launguage soon. Here are some programming languages that will be added.
+
+## Python
+
+Python 3
+
+> Python is powerful... and fast;
+> plays well woth others;
+> is friendly & easy to learn;
+> is Open.
+
+## JavaScript
+
+Well-known as the scripting languages for web pages but it is ued for so much more.
+# License
+
+MIT
